@@ -3,25 +3,25 @@ import ProductCard from "./ProductCard";
 const data = [
   {
     id: 0,
-    img: "/src/images/post__1.webp",
+    img: "/src/images/post__1.jpg",
     name: "Sauces",
     price: "₹ 300",
   },
   {
     id: 1,
-    img: "/src/images/post__2.webp",
+    img: "/src/images/post__2.jpg",
     name: "Spicy",
     price: "₹ 100",
   },
   {
     id: 2,
-    img: "/src/images/post__3.webp",
+    img: "/src/images/post__3.jpg",
     name: "Peanut Butter",
     price: "₹ 500",
   },
   {
     id: 3,
-    img: "/src/images/post__1.webp",
+    img: "/src/images/post__1.jpg",
     name: "Fruit Juice",
     price: "₹ 1300",
   },
@@ -53,7 +53,7 @@ const FeatureSectionBreakfast = () => {
         <div>
           <img
             className="w-full h-full object-cover"
-            src="/src/images/feature__2.webp"
+            src="/src/images/feature__2.jpg"
             alt="banner"
           />
         </div>

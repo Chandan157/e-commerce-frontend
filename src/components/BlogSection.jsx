@@ -2,25 +2,22 @@ import BlogCard from "./BlogCard";
 
 const data = [
   {
-    
-    img: "/src/images/post__1.webp",
-    title:"Healthy food Healthy Life",
-    date:"Aug 25, 2023",
-    comment:1,
+    img: "/src/images/post__1.jpg",
+    title: "Healthy food Healthy Life",
+    date: "Aug 25, 2023",
+    comment: 1,
   },
   {
-    
-    img: "/src/images/post__2.webp",
-    title:"Healthy food Healthy Life",
-    date:"Apr 21, 2024",
-    comment:1,
+    img: "/src/images/post__2.jpg",
+    title: "Healthy food Healthy Life",
+    date: "Apr 21, 2024",
+    comment: 1,
   },
   {
-    
-    img: "/src/images/post__3.webp",
-    title:"Healthy food Healthy Life",
-    date:"Aug 2, 2023",
-    comment:1,
+    img: "/src/images/post__3.jpg",
+    title: "Healthy food Healthy Life",
+    date: "Aug 2, 2023",
+    comment: 1,
   },
 ];
 
